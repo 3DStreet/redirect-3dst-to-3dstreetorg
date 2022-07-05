@@ -1,5 +1,14 @@
 {
   "projects": {
-    "default": "dstreet-305604"
+    "default": "3d-st-forward"
+  },
+  "targets": {
+    "dstreet-305604": {
+      "hosting": {
+        "3d-st-forward": [
+          "3d-st-forward"
+        ]
+      }
+    }
   }
 }
