@@ -1,13 +1,13 @@
 # redirect-3dst-to-3dstreetorg
 
 ### General pattern:
-[subdomain].3d.st/[path] > www.3dstreet.org
+[subdomain].3d.st/[path] > www.3dstreet.org/[path]
 
 ### Specific redirects:
 * 3d.st > www.3dstreet.org
 * www.3d.st > www.3dstreet.org
-* github.3d.st/[path] > www.3dstreet.org
-* app.3d.st/[path] > www.3dstreet.org
+* github.3d.st/[path] > www.3dstreet.org/[path]
+* app.3d.st/[path] > www.3dstreet.org/[path]
 
 ## deployment instructions
 
