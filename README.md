@@ -1,4 +1,7 @@
-# redirect-3dst-to-3dstreetorg
+# deprecated
+using native firebase hosting domain forwarding
+
+## redirect-3dst-to-3dstreetorg
 
 ### General pattern:
 [subdomain].3d.st/[path] > www.3dstreet.org/[path]
